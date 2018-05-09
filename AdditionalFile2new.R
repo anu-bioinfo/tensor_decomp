@@ -1,4 +1,5 @@
 #### Additional File 2
+#### The specific implementations of the tICA methods are made available under a GNU General Public License version 3.
 
 #### Summary: this file contains R-scripts for implementing the tPCA, tWFOBI, tWJADE, JIVE, CCA, sCCA, iCluster and PARAFAC algorithms (as used for the simulation model and application to real omic data). We also provide a function to estimate sensitivity.
 
